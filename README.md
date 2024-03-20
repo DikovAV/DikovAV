@@ -26,9 +26,9 @@
 
 | № | Name                                                               | Stack                                 | Description                                              |
 | - |:------------------------------------------------------------------ |:-------------------------------------:| -------------------------------------------------------- |
-| 1 | [Samokat.tech](https://www.kaggle.com/competitions/nlp-user-experience-multilabel-classification)| `Python`, `SentenceTransfromers`, `CatBoost`, `Faiss`| Workshop "Samokat.tech". NLP: User experience multilabel classification. The solution link is available upon request, in accordance with the competition's terms and conditions.                                       |
-| 2 | [Samokat.tech](https://www.kaggle.com/competitions/binary-classification-offers-on-the-marketplace)  | `Python`, `PyTorch`, `CatBoost`, `Faiss` | Workshop "Samokat.tech". Binary classification: offers on the marketplace. The solution link is available upon request, in accordance with the competition's terms and conditions.                                  |
-| 3 | [Prosept](https://github.com/DikovAV/Prosept_hackatoon)    | `Python`, `SentenceTransfromers` | Hackathon "Prosept". Developing a text-based matching project aimed at identifying "n" relevant products     |
+| 1 | [Samokat.tech](https://www.kaggle.com/competitions/nlp-user-experience-multilabel-classification) | `Python`, `SentenceTransfromers`, `CatBoost`, `Faiss`| 4th place in the Kaggle competition hosted by "Samokat.tech". NLP: User experience multilabel classification. The solution link is available upon request, in accordance with the competition's terms and conditions.                              |  
+| 2 | [Samokat.tech](https://www.kaggle.com/competitions/binary-classification-offers-on-the-marketplace) | `Python`, `PyTorch`, `CatBoost`, `Faiss` | 3rd place in the Kaggle competition hosted by "Samokat.tech" . Binary classification: offers on the marketplace. The solution link is available upon request, in accordance with the competition's terms and conditions.                                  |
+| 3 | [Prosept](https://github.com/DikovAV/Prosept_hackatoon)    | `Python`, `SentenceTransfromers` | Hackathon "Prosept". Developing a text-based matching project aimed at identifying "n" relevant products.     |
 
 
 **Pet project:**
